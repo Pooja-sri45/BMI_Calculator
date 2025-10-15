@@ -1,5 +1,7 @@
 # Ex06 BMI Calculator
-## Date:15/10/2025
+## DATE:15/10/2025
+## NAME:POOJASRI L
+## REG.NO:212223220076
 
 ## AIM
 To create a BMI calculator using React Router 
